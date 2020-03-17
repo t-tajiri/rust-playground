@@ -1,2 +1,6 @@
+# editor
+**/.idea/
+
+# rust
 **/target/
 **/Cargo.lock
